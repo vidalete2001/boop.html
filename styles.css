@@ -12,3 +12,7 @@ img {
    border: 2px green dashed;
    padding: 5px 10px 5px 10px;
 }
+
+#first-ingrediant {
+ color:red;
+}
